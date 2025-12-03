@@ -1,3 +1,4 @@
+package Variable_And_DATATYPES;
     //             Data Types in Java
             //            /          \
             //          /              \  
@@ -27,4 +28,5 @@ public class DataTypes {
     System.out.println("Byte value: and range of byte is -128 to 127 ==" + a);
     }
 }
+
 
