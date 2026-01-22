@@ -1,4 +1,3 @@
-package Variable_And_DATATYPES;
 public class checkdatatype {
 public static void main (String[] args){
 byte b = 4;
