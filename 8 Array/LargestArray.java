@@ -1,7 +1,7 @@
 public class LargestArray {
     public static int getLargest(int numbers[]) {
-        int largest = Integer.MIN_VALUE;
-        int smallest = Integer.MAX_VALUE;
+        int largest = Integer.MIN_VALUE; // Initial - infinite 
+        int smallest = Integer.MAX_VALUE; // Intialize from Max positive value then replace it 
 
         for (int i = 0; i < numbers.length; i++) {
             if (largest < numbers[i]) {
